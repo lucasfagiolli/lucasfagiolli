@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucasfagiolli
 - 👀 I’m interested in ...in showing my solo projects and projects done in courses (with mentorships).
-- 🌱 I’m currently learning ... Programação
+- 🌱 I’m currently learning ... programming
 - 💞️ I’m looking to collaborate on ...frond-end e python
 - 📫 
 
