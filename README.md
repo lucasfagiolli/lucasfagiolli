@@ -1,4 +1,4 @@
-## Olá! sou o Lucas Fg
+## Olá! sou o Lucas Fagiolli
 - 👋 @lucasfagiolli
 - 👀 Front-end
 - 💻 Estudando - Pentest
