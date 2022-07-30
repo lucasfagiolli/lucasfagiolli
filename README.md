@@ -1,7 +1,7 @@
 ## Olá! sou o Lucas Fg
 - 👋 @lucasfagiolli
 - 👀 Front-end
-- 🌱 Estudando PHP
+- 🌱 Hacking
 
 <div>
   <a href="https://github.com/lucasfagiolli">
