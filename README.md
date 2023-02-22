@@ -1,6 +1,6 @@
 ## Olá! sou o Lucas Fagiolli
 - 👋 @lucasfagiolli
-- 👀 Front-end
+- 👀 Estudando - Data Science
 - 💻 Estudando - Pentest
 
 <div>
