@@ -1,7 +1,8 @@
 ## Olá! sou o Lucas Fagiolli
 - 👋 @lucasfagiolli
-- 👀 Estudando - Data Science
 - 💻 Estudando - Pentest
+- 👀 Estudando - Data Science
+
 
 <div>
   <a href="https://github.com/lucasfagiolli">
