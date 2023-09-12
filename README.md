@@ -1,7 +1,7 @@
 ## Olá! sou o Lucas Fagiolli
 - 👋 @lucasfagiolli
 - 💻 Estudando - Pentest
-- 👀 Estudando - Python
+- 👀 Estudando - Java
 
 
 <div>
