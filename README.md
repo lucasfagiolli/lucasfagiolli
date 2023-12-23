@@ -1,5 +1,5 @@
 ## Olá! sou o Lucas Fagiolli
-- 👋 @lucasfagiolli
+- 👋 @lucasfg - Q.R.N
 - 💻 Estudando - Pentest
 - 👀 Estudando - Java
 
